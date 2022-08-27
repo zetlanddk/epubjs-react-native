@@ -27,7 +27,7 @@ yarn add @epubjs-react-native/file-system react-native-fs react-native-webview r
 #### Expo Installation
 
 ```sh
-expo install @epubjs-react-native/expo-file-system react-native-fs react-native-webview react-native-gesture-handler
+expo install @epubjs-react-native/expo-file-system expo-file-system react-native-webview react-native-gesture-handler
 ```
 
 #### If you develop for iOS use this command for install CocoaPods deps (if you use an expo managed project you don't need this)
